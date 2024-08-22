@@ -2,10 +2,15 @@ FIRST INSTALL KALI NETHUNTER
 JUST COPY PASTE ONE BY ONE 
 👇👇👇👇👇
 termux-setup-storage
+
 pkg install wget
+
 wget -O install-nethunter-termux https://offs.ec/2MceZWr
+
 chmod +x install-nethunter-termux
+
 ./install-nethunter-termux
+
 
 🔹️KALI LINUX OFFICIAL PAGE🔹️
 https://www.kali.org/docs/nethunter/nethunter-rootless/
@@ -39,3 +44,4 @@ fc-list
 
 RUN THE SCRIPT:
 ./quote_video_maker.sh
+
